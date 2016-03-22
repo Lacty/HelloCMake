@@ -1,0 +1,11 @@
+﻿2016/03/22 16:04:30 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Yanai\Desktop\HelloCMake\vs2015\ZERO_CHECK.vcxproj" (Build ターゲット)。
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/Users/Yanai/Desktop/HelloCMake/vs2015/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Yanai/Desktop/HelloCMake/vs2015/src/CMakeFiles/generate.stamp is up-to-date.
+     1>プロジェクト "C:\Users\Yanai\Desktop\HelloCMake\vs2015\ZERO_CHECK.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.13
